@@ -1,0 +1,11 @@
+header.jumbotron {
+    background-image: url(../img/Dianas_Photos_25.jpg);
+    background-size: cover;
+    height: 100vh
+  }
+
+#name {
+    color: white;
+    margin-top: 40em;
+    text-align: center;
+}
