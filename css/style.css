@@ -1,3 +1,19 @@
+/* Palette: 
+
+Soft Amber
+#d6c6bc
+
+Dune
+#2c2524
+
+Tobacco Brown
+#705245
+
+Beaver
+#8d6b56
+
+*/
+
 .social-media-btns .col {
   padding-right: 0;
 }
@@ -19,6 +35,14 @@ header.jumbotron {
     margin-top: 30em;
     text-align: center;
 }
+
+@media only screen and (max-width: 600px) {
+    #name {
+        color: white;
+        margin-top: 25em;
+        text-align: center;
+    }
+  }
 
 @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
 
